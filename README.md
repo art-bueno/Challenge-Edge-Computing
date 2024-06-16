@@ -42,7 +42,7 @@ Essa conversão é feita para exibir a velocidade em uma unidade mais compreens�
 
 O sistema pode ser utilizado para captar dados de velocidade em simulações de corridas de Fórmula, onde a precisão e a rapidez na exibição das informações são cruciais para os espectadores e apostadores. A exibição da velocidade no display LCD permite uma visualização imediata dos resultados, proporcionando uma experiência interativa e informativa para os usuários.
 
-
+Link para simulador: https://www.tinkercad.com/things/0mVrVU1adKU-bettery-sensor/editel?sharecode=J860wvIX9yFqDLhoCrfYioMbQGV5nOpb7OsIna2iiE8
 
 ---
 
