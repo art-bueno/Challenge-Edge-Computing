@@ -30,13 +30,6 @@ O código principal consiste em duas partes principais: a medição da distânci
    - **calculaVelocidade():** Calcula a velocidade em km/h com base nas duas distâncias medidas e nos tempos correspondentes.
    - **imprimeResultadoNoLCD():** Exibe as distâncias e a velocidade no LCD.
 
-### Conversão de Unidades
-
-A velocidade é calculada inicialmente em cm/s e então convertida para km/h usando a fórmula de conversão aproximada:
-
-\[ \text{velocidade\_km\_h} = \text{velocidade\_cm\_s} \times 0.036 \]
-
-Essa conversão é feita para exibir a velocidade em uma unidade mais compreensível para os usuários finais.
 
 ### Uso e Aplicação
 
@@ -44,6 +37,3 @@ O sistema pode ser utilizado para captar dados de velocidade em simulações de 
 
 Link para simulador: https://www.tinkercad.com/things/0mVrVU1adKU-bettery-sensor/editel?sharecode=J860wvIX9yFqDLhoCrfYioMbQGV5nOpb7OsIna2iiE8
 
----
-
-Este documento README fornece uma visão geral do projeto Bettery e como o código implementado captura e processa dados de velocidade para serem utilizados em uma casa de apostas focada em competições de Fórmula. Ele destaca a funcionalidade principal do código, os componentes utilizados e a lógica por trás das medições e conversões de unidades.
